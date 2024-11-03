@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskManagerMain.exe
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskManagerMain.deps.json
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskManagerMain.runtimeconfig.json
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskManagerMain.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskManagerMain.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\refint\TaskManagerMain.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.genruntimeconfig.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\ref\TaskManagerMain.dll
