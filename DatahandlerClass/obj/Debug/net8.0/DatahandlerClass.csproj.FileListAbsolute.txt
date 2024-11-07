@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\bin\Debug\net8.0\DatahandlerClass.deps.json
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\bin\Debug\net8.0\DatahandlerClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\bin\Debug\net8.0\DatahandlerClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\bin\Debug\net8.0\TaskClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\bin\Debug\net8.0\TaskClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.AssemblyInfo.cs
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\Datahand.4427187A.Up2Date
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\refint\DatahandlerClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\DatahandlerClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\DatahandlerClass\obj\Debug\net8.0\ref\DatahandlerClass.dll
