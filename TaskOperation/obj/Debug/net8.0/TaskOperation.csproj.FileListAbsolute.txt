@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\TaskOperation.deps.json
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\TaskOperation.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\TaskOperation.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\DatahandlerClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\TaskClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\DatahandlerClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\bin\Debug\net8.0\TaskClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.AssemblyInfo.cs
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOper.B837F9B6.Up2Date
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\refint\TaskOperation.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\TaskOperation.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskOperation\obj\Debug\net8.0\ref\TaskOperation.dll
