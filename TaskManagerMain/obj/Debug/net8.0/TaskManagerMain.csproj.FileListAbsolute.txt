@@ -12,3 +12,11 @@ C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.
 C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.pdb
 C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.genruntimeconfig.cache
 C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\ref\TaskManagerMain.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\DatahandlerClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskClass.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskOperation.dll
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskOperation.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\DatahandlerClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\bin\Debug\net8.0\TaskClass.pdb
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskManagerMain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\My projects\TaskManagerCLI\TaskManagerMain\obj\Debug\net8.0\TaskMana.EC8B7AB0.Up2Date
