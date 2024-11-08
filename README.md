@@ -45,7 +45,8 @@ To utilise the program on commmand line / terminal enter the following commands
 -![Task Operation](/Screenshots/5.png)
 
 ## Project URL
-[TaskManagerCLILink](url "https://github.com/AdebimpeAbdulhamidEniola/TaskManagerCLI.git")
+[TaskManagerCLILink](url "https://roadmap.sh/projects/task-tracker")
+
 
 ## Credits
 
